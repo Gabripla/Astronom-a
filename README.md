@@ -20,6 +20,7 @@ La exploración espacial es otra área importante en la astronomía. Desde los p
 
 ## Ramas de la Astronomía
 
+![Fotografia obtenida en](https://concepto.de/wp-content/uploads/2018/09/astrofisica-e1536620304793.jpg)
 
 ### Bibliografia
 Astronomía - Concepto, historia y ramas de estudio. (s. f.). Concepto. https://concepto.de/astronomia/
