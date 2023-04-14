@@ -8,7 +8,7 @@ Otro tema importante en la astronomía es el estudio de las estrellas. Las estre
 
 La astronomía también se encarga del estudio de los agujeros negros, que son regiones del espacio donde la gravedad es tan intensa que nada, ni siquiera la luz, puede escapar de ellas. Los agujeros negros son objetos fascinantes y misteriosos que han despertado el interés de los astrónomos y científicos en todo el mundo.
 
-![Imagen local](img/Stephe.jpg)
+![Imagen local](img/galaxia.jpeg)
 
 La astrofísica es otra rama de la astronomía que se enfoca en el estudio de las propiedades físicas y químicas de los cuerpos celestes. La astrofísica nos permite entender mejor la composición del universo y la formación de los objetos celestes, y ha sido fundamental para el avance en la tecnología de la exploración espacial.
 
@@ -21,6 +21,11 @@ La exploración espacial es otra área importante en la astronomía. Desde los p
 ## Ramas de la Astronomía
 
 ![Fotografia obtenida en](https://concepto.de/wp-content/uploads/2018/09/astrofisica-e1536620304793.jpg)
+
+1. Astrofísica
+2. Astrología
+3. Astronáutica
+4. Astrometría
 
 ### Bibliografia
 Astronomía - Concepto, historia y ramas de estudio. (s. f.). Concepto. https://concepto.de/astronomia/
